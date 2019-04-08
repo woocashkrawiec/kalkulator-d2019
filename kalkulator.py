@@ -5,4 +5,5 @@ def dodaj():
 	b = int(input())
 	print(a+b)
 	
-	
+
+print ('Koniec programu')
